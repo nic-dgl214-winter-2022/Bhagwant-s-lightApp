@@ -1,6 +1,5 @@
 import UIKit
 
-
 class ViewController: UIViewController {
 
     var lightOn = true
